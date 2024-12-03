@@ -6,3 +6,5 @@
 
   - debug:
       msg: feature1
+  - debug:
+      msg: feature2
